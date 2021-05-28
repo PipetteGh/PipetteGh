@@ -1,0 +1,23 @@
+{
+    "private": true,
+    "license": "MIT",
+    "scripts": {
+        "client": "run-p dev:admin dev:app",
+        "dev:admin": "pushd client/ekklisia-admin && yarn start",
+        "dev:app": "pushd client/ekklisia-app && yarn start",
+        "add:app": "pushd client/ekklisia-app && yarn add -E",
+        "build": "cd app && yarn build:web"
+    },
+    "devDependencies": {
+        "npm-run-all": "4.1.5",
+        "shx": "0.3.2"
+    },
+    "dependencies": {
+        "@types/moment": "2.13.0",
+        "expo-constants": "^7.0.1",
+        "react-hook-form": "4.8.0",
+        "react-native-calendar-strip": "1.4.0",
+        "react-native-screens": "^2.0.0-alpha.15",
+        "react-navigation-stack": "2.0.16"
+    }
+}
