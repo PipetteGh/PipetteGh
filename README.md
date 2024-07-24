@@ -38,10 +38,10 @@ GitHub Contributions
 
 Get in Touch
 
-[https://www.linkedin.com/in/peter-borngreat-mensah-bsc-939742168]
-[https://twitter.com/soluotech]
-[mailto:peterborngreatmensah@gmail.com]
-[https://instagram/soluotech]
+https://www.linkedin.com/in/peter-borngreat-mensah-bsc-939742168
+https://twitter.com/soluotech
+mailto:peterborngreatmensah@gmail.com
+https://instagram/soluotech
 License
 MIT (c) Soluotech Development
 
