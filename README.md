@@ -1,4 +1,4 @@
-# Hi there, I'm Peter Borngreat 👋
+# Hi there, I'm Peter Borngreat-Mensah 👋
 
 **Fullstack Software Engineer | Cloud Solution Architect | Network Engineer | Cross-Platform Application Developer | Business Analyst | Digital Marketer | Cybersecurity Expert**
 
