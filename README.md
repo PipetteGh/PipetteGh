@@ -12,6 +12,7 @@ Languages: Dart, JavaScript, HTML, CSS
 Frontend: ReactJs, React Native
 Backend: PHP, Node, Express
 Cloud: AWS, Microsoft Azure
+
 Networking:
 #Tools:
 Wireshark
