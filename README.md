@@ -1,47 +1,63 @@
-Hi there, I'm Peter Borngreat 👋
-Fullstack Software Engineer | Cloud Solution Architect | Network Engineer | Cross-Platform Application Developer | Business Analyst | Digital Marketer | Cybersecurity Expert
+# Hi there, I'm Peter Borngreat 👋
 
-About Me
-👀 I love to build projects that solve real life problems
-🚀 I am passionate about contributing to open source
-🙂 I design aesthetically pleasing interfaces while offering a satisfying experience to users
+**Fullstack Software Engineer | Cloud Solution Architect | Network Engineer | Cross-Platform Application Developer | Business Analyst | Digital Marketer | Cybersecurity Expert**
+
+---
+
+## About Me
+
+👀 I love to build projects that solve real life problems  
+🚀 I am passionate about contributing to open source  
+🙂 I design aesthetically pleasing interfaces while offering a satisfying experience to users  
 🧑🏽‍💻 Open to Remote or Hybrid Roles, Internships, and Part-Time Opportunities
 
-Skills and Technologies
-Languages: Dart, JavaScript, HTML, CSS
-Frontend: ReactJs, React Native
-Backend: PHP, Node, Express
-Cloud: AWS, Microsoft Azure
+---
 
-Networking:
-#Tools:
-Wireshark
-Nmap
-Netcat
-Nagios
-SolarWinds
-Cisco Packet Tracer
+## Skills and Technologies
 
-#Protocols:
-TCP/IP
-HTTP/HTTPS
-FTP/SFTP
-SSH
-DNS
-DHCP
-BGP
-SNMP
-OSPF
-Cross-Platform Development: [React Native, Flutter]
-GitHub Contributions
+- **Languages**: Dart, JavaScript, HTML, CSS
+- **Frontend**: ReactJs, React Native
+- **Backend**: PHP, Node, Express
+- **Cloud**: AWS, Microsoft Azure
+- **Networking**:
+  - **Tools**:
+    - Wireshark
+    - Nmap
+    - Netcat
+    - Nagios
+    - SolarWinds
+    - Cisco Packet Tracer
+  - **Protocols**:
+    - TCP/IP
+    - HTTP/HTTPS
+    - FTP/SFTP
+    - SSH
+    - DNS
+    - DHCP
+    - BGP
+    - SNMP
+    - OSPF
+- **Cross-Platform Development**: [Any other tools or frameworks]
 
+---
 
-Get in Touch
+## GitHub Contributions
 
-https://www.linkedin.com/in/peter-borngreat-mensah-bsc-939742168
-https://twitter.com/soluotech
-mailto:peterborngreatmensah@gmail.com
-https://instagram/soluotech
-License
+[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/YourGitHubUsername)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)](https://github.com/YourGitHubUsername)
+
+---
+
+## Get in Touch
+
+- [LinkedIn](https://www.linkedin.com/in/peter-borngreat-mensah-bsc-939742168)
+- [Twitter](https://twitter.com/soluotech)
+- [Email](mailto:peterborngreatmensah@gmail.com)
+- [Instagram](https://instagram.com/soluotech)
+
+---
+
+## License
+
 MIT (c) Soluotech Development
-
