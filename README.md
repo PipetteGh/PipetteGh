@@ -1,19 +1,9 @@
-# Ekklisia - Church App
+Hello 👋🏾
+I'm a Fullstack Software Engineer, Cloud Engineer, Network Engineer & Cross-Platform Application Developer, working with Dart, HTML, CSS, Node, Express, Javascript, ReactJs, React Native
 
-Help believers simplify their job at Church.
+👀 I love to build projects that solve real life problems
+🚀 I love contributing to open source.
+🙂 I design aesthetically pleasing interface while offering a satisfying experience to users.
+🧑🏽‍💻 Open to Remote or Hybrid Roles, Internships and Part time opportunities
 
-## 
-
-## Main Features
-
-- [x] Attendance management.
-  - [x] Manager.
-  - [x] Small Group Leader.
-  - [ ] Reminder via Push Notifications, email.
-- [ ] Report.
-  - [ ] Export data analysis.
-  - [ ] Visualize the data with charts.
-
-## LICENSE
-
-MIT (c) Bara Development
+MIT (c) Soluotech Development
