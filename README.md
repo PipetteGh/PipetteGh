@@ -15,7 +15,7 @@
 
 ## Skills and Technologies
 
-- **Languages**: Dart, JavaScript, HTML, CSS
+- **Languages**: PHP, JavaScript, Dart, HTML, CSS 
 - **Frontend**: ReactJs, React Native
 - **Backend**: PHP, Node, Express
 - **Cloud**: AWS, Microsoft Azure
@@ -37,15 +37,15 @@
     - BGP
     - SNMP
     - OSPF
-- **Cross-Platform Development**: [Any other tools or frameworks]
+- **Cross-Platform Development**: React Native, Flutter
 
 ---
 
 ## GitHub Contributions
 
-[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/YourGitHubUsername)
+[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=PipetteGh&show_icons=true&theme=radical)](https://github.com/PipetteGh)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)](https://github.com/YourGitHubUsername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PipetteGh&layout=compact&theme=radical)](https://github.com/PipetteGh)
 
 ---
 
