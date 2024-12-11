@@ -11,6 +11,31 @@
 🙂 I design aesthetically pleasing interfaces while offering a satisfying experience to users  
 🧑🏽‍💻 Open to Remote or Hybrid Roles, Internships, and Part-Time Opportunities
 
+- **Fullstack Development**  
+  - Built robust and scalable web and cross-platform applications that enhance productivity and streamline operations.  
+
+- **Cybersecurity**  
+  - Implemented advanced firewall configurations, conducted vulnerability assessments, and deployed incident response systems to strengthen organizational security.  
+
+- **System Administration**  
+  - Optimized server infrastructures and ensured seamless network operations for businesses of all sizes.  
+
+- **Cloud Solution Architecture**  
+  - Designed and deployed cloud-native solutions to reduce operational costs and improve scalability.  
+
+- **Network Engineering**  
+  - Delivered secure, reliable networks, including site-to-site VPN setups and load-balanced infrastructures, ensuring uninterrupted connectivity.  
+
+- **Business Analysis**  
+  - Performed in-depth analyses to develop tailored software and system solutions aligned with business goals.  
+
+- **Digital Marketing**  
+  - Increased online presence and engagement through data-driven marketing strategies.  
+
+- **DevOps Engineering**  
+  - Automated deployment pipelines, enhancing development efficiency and reducing time-to-market for applications.  
+
+
 ---
 
 ## Skills and Technologies
