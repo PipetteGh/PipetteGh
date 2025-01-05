@@ -35,7 +35,6 @@
 - **DevOps Engineering**  
   - Automated deployment pipelines, enhancing development efficiency and reducing time-to-market for applications.  
 
-
 ---
 
 ## Skills and Technologies
@@ -71,6 +70,12 @@
 [![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=PipetteGh&show_icons=true&theme=radical)](https://github.com/PipetteGh)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PipetteGh&layout=compact&theme=radical)](https://github.com/PipetteGh)
+
+### Contributions Overview
+
+![Peter's Contributions](https://ghchart.rshah.org/PipetteGh)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PipetteGh&theme=radical)](https://git.io/streak-stats)
 
 ---
 
