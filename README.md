@@ -35,6 +35,7 @@
 - **DevOps Engineering**  
   - Automated deployment pipelines, enhancing development efficiency and reducing time-to-market for applications.  
 
+
 ---
 
 ## Skills and Technologies
@@ -67,12 +68,6 @@
 
 ## GitHub Contributions
 
-[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=PipetteGh&show_icons=true&theme=radical)](https://github.com/PipetteGh)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PipetteGh&layout=compact&theme=radical)](https://github.com/PipetteGh)
-
-### Contributions Overview
-
 ![Peter's Contributions](https://ghchart.rshah.org/PipetteGh)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PipetteGh&theme=radical)](https://git.io/streak-stats)
@@ -81,10 +76,11 @@
 
 ## Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/peter-borngreat-mensah-bsc-939742168)
+- [LinkedIn](https://www.linkedin.com/in/peterborngreatmensah)
 - [Twitter](https://twitter.com/soluotech)
 - [Email](mailto:peterborngreatmensah@gmail.com)
 - [Instagram](https://instagram.com/soluotech)
+- [Facebook](https://facebook.com/peterborngreatmensah)
 
 ---
 
