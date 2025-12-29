@@ -1,74 +1,74 @@
 # Hi there, I'm Peter Borngreat-Mensah 👋
 
-**Fullstack Software Engineer | System Administrator | Cloud Solution Architect | Network Engineer | Cross-Platform Application Developer | Business Analyst | Digital Marketer | Cybersecurity Specialist| DevOps Engineer**
+**Software/Systems/DevOps Engineer | Licensed Compliance & Cybersecurity Practitioner | GRC Specialist | Solution Architect | ISO/IEC 27001 & 42001 Auditor | IT Consultant | Founder @ Soluotech**
 
 ---
 
 ## About Me
 
-👀 I love to build projects that solve real life problems  
-🚀 I am passionate about contributing to open source  
-🙂 I design aesthetically pleasing interfaces while offering a satisfying experience to users  
-🧑🏽‍💻 Open to Remote or Hybrid Roles, Internships, and Part-Time Opportunities
+👀 I am a multi-faceted **Technology Leader** and **Certified Practitioner** dedicated to securing and scaling digital infrastructures.
+🚀 **Founder of Soluotech**, driving digital transformation with high-impact IT solutions.
+🛡️ Expert in **Governance, Risk, and Compliance (GRC)**, ensuring organizations meet rigorous international standards (ISO/IEC 27001 & 42001).
+🧑🏽‍� Passionate about combining **robust engineering** with **strategic compliance** to solve complex business challenges.
 
-- **Fullstack Development**  
-  - Built robust and scalable web and cross-platform applications that enhance productivity and streamline operations.  
+- **Governance, Risk & Compliance (GRC)**
+  - Licensed practitioner specializing in regulatory compliance, risk management frameworks, and ISO/IEC 27001 & 42001 auditing.
+  - Designing policies and procedures that align technical operations with business security objectives.
 
-- **Cybersecurity**  
-  - Implemented advanced firewall configurations, conducted vulnerability assessments, and deployed incident response systems to strengthen organizational security.  
+- **Fullstack & Software Engineering**
+  - Architecting robust, scalable web and cross-platform applications that drive productivity and user engagement.
+  - Expertise in the full SDLC, from requirement gathering to deployment and maintenance.
 
-- **System Administration**  
-  - Optimized server infrastructures and ensured seamless network operations for businesses of all sizes.  
+- **Cybersecurity & Network Defense**
+  - Implementing advanced defense-in-depth strategies, vulnerability assessments, and incident response protocols.
+  - Securing network infrastructures with site-to-site VPNs, firewall configurations, and load balancing.
 
-- **Cloud Solution Architecture**  
-  - Designed and deployed cloud-native solutions to reduce operational costs and improve scalability.  
+- **Cloud Architecture & DevOps**
+  - Designing cloud-native solutions (AWS, Azure) to optimize costs, scalability, and performance.
+  - Automating CI/CD pipelines to accelerate time-to-market and ensure reliable deployments.
 
-- **Network Engineering**  
-  - Delivered secure, reliable networks, including site-to-site VPN setups and load-balanced infrastructures, ensuring uninterrupted connectivity.  
-
-- **Business Analysis**  
-  - Performed in-depth analyses to develop tailored software and system solutions aligned with business goals.  
-
-- **Digital Marketing**  
-  - Increased online presence and engagement through data-driven marketing strategies.  
-
-- **DevOps Engineering**  
-  - Automated deployment pipelines, enhancing development efficiency and reducing time-to-market for applications.  
-
+- **IT Consultancy & Strategy**
+  - Analyzing business needs to deliver tailored, future-proof technological roadmaps.
+  - Providing expert guidance on system administration, network engineering, and digital transformation.
 
 ---
 
 ## Skills and Technologies
 
-- **Languages**: PHP, JavaScript, Dart, HTML, CSS 
-- **Frontend**: ReactJs, React Native
-- **Backend**: PHP, Node, Express
-- **Cloud**: AWS, Microsoft Azure
-- **Networking**:
-  - **Tools**:
-    - Wireshark
-    - Nmap
-    - Netcat
-    - Nagios
-    - SolarWinds
-    - Cisco Packet Tracer
-  - **Protocols**:
-    - TCP/IP
-    - HTTP/HTTPS
-    - FTP/SFTP
-    - SSH
-    - DNS
-    - DHCP
-    - BGP
-    - SNMP
-    - OSPF
-- **Cross-Platform Development**: React Native, Flutter
+### 🛡️ Governance, Risk & Compliance (GRC)
+- **Standards & Frameworks**: ISO/IEC 27001 (ISMS), ISO/IEC 42001 (AIMS), NIST CSF, GDPR, PCI-DSS, COBIT.
+- **Competencies**: Risk Assessment & Management, Internal/External Auditing, Policy Development, Compliance Roadmap Strategy, Business Continuity Planning (BCP).
+
+### ☁️ Cloud & DevOps
+- **Cloud Platforms**: AWS (Solutions Architect), Microsoft Azure, Google Cloud Platform (GCP).
+- **DevOps Tools**: Docker, Kubernetes, Jenkins, GitHub Actions, GitLab CI/CD, Terraform, Ansible.
+- **Infrastructure**: Linux Administration (Ubuntu/CentOS/RedHat), Virtualization (VMware/Hyper-V).
+
+### 🔐 Cybersecurity & Networking
+- **Defense Operations**: Vulnerability Assessment, Penetration Testing, Incident Response, SIEM (Splunk, AlienVault), IDS/IPS Configuration.
+- **Network Engineering**: TCP/IP, DNS, BGP, OSPF, VLANs, Site-to-Site VPNs, Load Balancing, Wireshark, Nmap, Cisco Packet Tracer.
+- **Security Protocols**: SSL/TLS, SSH, IPsec, Zero Trust Architecture, IAM.
+
+### 💻 Software Development
+- **Languages**: PHP, JavaScript (ES6+), TypeScript, Python, Dart, SQL, Bash Scripting.
+- **Frontend**: React.js, Next.js, Vue.js, Tailwind CSS, Bootstrap, HTML5, CSS3.
+- **Backend**: Node.js, Express.js, Laravel (PHP), RESTful APIs, GraphQL.
+- **Mobile/Cross-Platform**: React Native, Flutter.
+- **Databases**: MySQL, PostgreSQL, MongoDB, Redis, Firebase.
+
+### 📊 Business & Strategy
+- **Analysis**: Requirement Gathering, Systems Analysis, Agile/Scrum Methodologies, Technical Documentation.
+- **Leadership**: Project Management, Team Leadership, IT Strategy Alignment, Stakeholder Management.
 
 ---
 
 ## GitHub Contributions
 
-![Peter's Contributions](https://ghchart.rshah.org/PipetteGh)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PipetteGh/PipetteGh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PipetteGh/PipetteGh/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PipetteGh/PipetteGh/output/github-contribution-grid-snake.svg">
+</picture>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PipetteGh&theme=radical)](https://git.io/streak-stats)
 
