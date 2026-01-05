@@ -70,7 +70,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PipetteGh/PipetteGh/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PipetteGh&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PipetteGh&theme=radical)](https://git.io/streak-stats)]
+![PipetteGh’s GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=PipetteGh&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide=stars,issues)
 
 ---
 
