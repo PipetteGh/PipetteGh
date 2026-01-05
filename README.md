@@ -75,6 +75,10 @@
 
 ---
 
+## Contributes
+![GitHub Contribution Graph](https://github.com/PipetteGh/github-readme-activity-graph/blob/main/graph.png)
+
+
 ## Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/peterborngreatmensah)
