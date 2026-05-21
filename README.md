@@ -76,7 +76,9 @@
 ---
 
 ## Contributes
-![GitHub Contribution Graph](https://github.com/PipetteGh/github-readme-activity-graph/blob/main/graph.png)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PipetteGh&show_icons=true&theme=radical&count_private=true)
 
 
 ## Get in Touch
